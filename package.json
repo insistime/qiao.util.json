@@ -2,7 +2,7 @@
   "name": "qiao.util.json",
   "version": "0.0.1",
   "license": "MIT",
-  "description": "qiao.util.json",
+  "description": "nodejs json data",
   "keywords": [],
   "main": "index.js",
   "scripts": {},

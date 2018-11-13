@@ -64,11 +64,5 @@ console.log(danger);
 ```
 
 # version
-## 0.0.2.20181017
-1. isExists
-2. extname
-3. mkdir
-4. getAllFiles
-
-## 0.0.1.20181016
+## 0.0.1.20181113
 1. init
