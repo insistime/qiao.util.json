@@ -1,0 +1,21 @@
+{
+  "name": "qiao.util.json",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "qiao.util.json",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+  },
+  "author": {
+    "name": "qiaowenbin",
+    "email": "npm@insistime.com",
+    "url": "https://insistime.com"
+  },
+  "homepage": "https://code.insistime.com/qiao.util.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insistime/qiao.util.json.git"
+  }
+}
