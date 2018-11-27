@@ -64,6 +64,9 @@ console.log(danger);
 ```
 
 # version
+## 0.0.3.20181127
+1. add .js
+
 ## 0.0.2.20181122
 1. npm audit
 
