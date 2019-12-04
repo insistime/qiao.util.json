@@ -67,6 +67,9 @@ console.log(danger);
 ```
 
 # version
+## 0.0.4.20191204
+1. add funding
+
 ## 0.0.3.20181127
 1. add .js
 
